@@ -9,7 +9,7 @@ public class BrandTest {
 		System.out.println("Second line by Ganesh");
 	}
 
-//	public void sampleMethod() {
-//		System.out.println("This method is for future perpose");
-//	}
+	public void sampleMethod() {
+		System.out.println("This method is for future perpose");
+	}
 }
