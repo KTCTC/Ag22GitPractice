@@ -10,6 +10,6 @@ public class BrandTest {
 	}
 
 	public void sampleMethod() {
-		System.out.println("This method is for future perpose");
+		System.out.println("New Line in sample method");
 	}
 }
